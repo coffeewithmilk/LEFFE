@@ -1,0 +1,10 @@
+#comboBox .list-cell
+ {
+    -fx-font-family: arial;
+    -fx-font-size: 16px;
+    -fx-text-fill: #a0522d; 
+ }
+ 
+ .textarea .scroll-bar:horizontal {
+ 	-fx-opacity: 0;
+ }
